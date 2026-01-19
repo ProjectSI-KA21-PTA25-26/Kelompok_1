@@ -1,7 +1,11 @@
 ## 👥 Anggota Kelompok 1
+
 Albert Melkisedek Purba (10122112) 🧑‍💻 Programmer
+
 Gusti Dharma Satria Yudhistira (10122555) 🎨 Designer (UI/UX)
+
 Muhammad Rizky Pratama (10122993) 🧑‍💼 Project Manager
+
 Thafhan Ahsha Yattaqi (11122430) 📈 System Analyst
 
 
