@@ -14,20 +14,5 @@ Aplikasi manajemen stok barang berbasis web yang dikembangkan untuk mempermudah 
 * **Library**: FPDF (untuk integrasi cetak laporan).
 * **Frontend**: Bootstrap / CSS.
 
-## ⚙️ Panduan Instalasi (Lokal)
-
-### 1. Persiapan
-* Pastikan sudah menginstal Web Server (Laragon / XAMPP).
-* PHP versi 7.4 ke atas.
-
-### 2. Setup Database
-1. Buka `phpmyadmin`.
-2. Buat database baru.
-3. Import file `.sql`
-
-### 3. Konfigurasi Koneksi
-* Cek file `function.php` dan sesuaikan konfigurasi `host`, `user`, `password`, dan `database_name`.
-
-### 4. Menjalankan Aplikasi
-* Taruh folder di `C:\laragon\www` atau `htdocs`.
-* Akses melalui browser: `http://localhost/pengelolaan_stok/login.php`.
+## 💡 Akses Cepat: 
+http://pengelolaanstok.page.gd/demo.php
